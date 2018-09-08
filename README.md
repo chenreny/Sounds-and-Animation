@@ -1,8 +1,5 @@
-Neuronal Synchrony
+Music Mosaic
 ==================
 
-A collection of two dimensional animations that are triggered by sound.
+Displaying a myriad of soothing musical colors with portable animation and sound implemented with Paper.js, Howler.js, and Canvas
 
-Freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
-
-Prototyped with [Processing](http://processing.org/), built with [JavaScript].
